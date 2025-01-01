@@ -4,7 +4,7 @@ version       = "0.0.4"
 author        = "Leorize"
 description   = "Abstractions for common operating system services"
 license       = "MIT"
-srcDir        = "src"
+srcDir        = "src/sys"
 
 
 # Dependencies
